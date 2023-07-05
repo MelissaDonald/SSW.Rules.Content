@@ -47,7 +47,7 @@ Best way to quickly integrate Bootstrap 3 or Bootstrap 4 Components with An
 ### OpenID Token Manager
 
 Handles management of OpenID authentication and tokens.
-[https://github.com/IdentityModel/oidc-token-manager](https&#58;//github.com/IdentityModel/oidc-token-manager)
+[https://github.com/authts/oidc-client-ts](https&#58;//github.com/authts/oidc-client-ts)
 
 
 
@@ -60,5 +60,7 @@ A library for loading spinner specifically for Angular 4/5/6.
 
 A library for displaying toasts in Angular applications.
 [https://www.npmjs.com/package/ngx-toastr](https&#58;//www.npmjs.com/package/ngx-toastr)
+
+### other tools
 
 For more, please check out the most popular npm packages: [https://www.npmjs.com/search?q=ng&ranking=popularity](https&#58;//www.npmjs.com/search?q=ng&amp;ranking=popularity).
